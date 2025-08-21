@@ -8,26 +8,26 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 27 10% 14%;
+    --background: 0 0% 5%;
+    --foreground: 0 0% 95%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 27 10% 14%;
+    --card: 0 0% 8%;
+    --card-foreground: 0 0% 95%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 27 10% 14%;
+    --popover: 0 0% 8%;
+    --popover-foreground: 0 0% 95%;
 
-    --primary: 14 70% 32%;
-    --primary-foreground: 0 0% 98%;
+    --primary: 0 0% 15%;
+    --primary-foreground: 0 0% 95%;
 
-    --secondary: 27 20% 92%;
-    --secondary-foreground: 27 10% 14%;
+    --secondary: 0 0% 20%;
+    --secondary-foreground: 0 0% 95%;
 
-    --muted: 27 20% 95%;
-    --muted-foreground: 27 10% 50%;
+    --muted: 0 0% 12%;
+    --muted-foreground: 0 0% 70%;
 
-    --accent: 40 85% 55%;
-    --accent-foreground: 27 10% 14%;
+    --accent: 0 0% 25%;
+    --accent-foreground: 0 0% 95%;
 
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
@@ -56,26 +56,26 @@ All colors MUST be HSL.
   }
 
   .dark {
-    --background: 27 10% 8%;
-    --foreground: 0 0% 95%;
+    --background: 0 0% 3%;
+    --foreground: 0 0% 98%;
 
-    --card: 27 10% 12%;
-    --card-foreground: 0 0% 95%;
+    --card: 0 0% 5%;
+    --card-foreground: 0 0% 98%;
 
-    --popover: 27 10% 12%;
-    --popover-foreground: 0 0% 95%;
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 98%;
 
-    --primary: 40 85% 55%;
-    --primary-foreground: 27 10% 8%;
+    --primary: 0 0% 12%;
+    --primary-foreground: 0 0% 98%;
 
-    --secondary: 27 15% 18%;
-    --secondary-foreground: 0 0% 95%;
+    --secondary: 0 0% 18%;
+    --secondary-foreground: 0 0% 98%;
 
-    --muted: 27 15% 15%;
-    --muted-foreground: 27 10% 65%;
+    --muted: 0 0% 10%;
+    --muted-foreground: 0 0% 75%;
 
-    --accent: 14 70% 42%;
-    --accent-foreground: 0 0% 95%;
+    --accent: 0 0% 22%;
+    --accent-foreground: 0 0% 98%;
 
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
@@ -110,7 +110,7 @@ All colors MUST be HSL.
   }
   
   .gradient-hero {
-    background: linear-gradient(135deg, hsl(var(--primary) / 0.95), hsl(var(--primary) / 0.8));
+    background: linear-gradient(135deg, hsl(0 0% 5% / 0.9), hsl(0 0% 15% / 0.8));
   }
   
   .shadow-construction {
