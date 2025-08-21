@@ -14,7 +14,7 @@ const About = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 text-foreground">
-            About Anson General Contracting
+            About AG Construction
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             With decades of experience in the construction industry, we've built our reputation 
@@ -40,7 +40,7 @@ const About = () => {
             <h3 className="text-2xl font-bold mb-6 text-foreground">Our Commitment to Excellence</h3>
             <div className="space-y-4 text-muted-foreground">
               <p>
-                At Anson General Contracting, we understand that every construction project represents 
+                At AG Construction, we understand that every construction project represents 
                 more than just buildings and structures—it represents dreams, visions, and investments 
                 in the future.
               </p>
@@ -59,7 +59,7 @@ const About = () => {
           </div>
           
           <div className="bg-gradient-to-br from-primary to-accent p-8 rounded-lg text-white">
-            <h4 className="text-xl font-bold mb-6">Why Choose Anson GC?</h4>
+            <h4 className="text-xl font-bold mb-6">Why Choose AG Construction?</h4>
             <ul className="space-y-3">
               <li className="flex items-start">
                 <span className="w-2 h-2 bg-white rounded-full mt-2 mr-3 flex-shrink-0"></span>

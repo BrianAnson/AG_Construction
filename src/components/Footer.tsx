@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
               <Building2 className="h-8 w-8 mr-3" />
-              <h3 className="text-2xl font-bold">ANSON GC</h3>
+              <h3 className="text-2xl font-bold">AG Construction</h3>
             </div>
             <p className="text-white/80 mb-4 max-w-md">
               Professional construction services across Commercial Building, Residential Design Build, 
@@ -43,7 +43,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-white/20 mt-8 pt-8 text-center text-white/60">
-          <p>&copy; 2024 Anson General Contracting. All rights reserved.</p>
+          <p>&copy; 2024 AG Construction. All rights reserved.</p>
         </div>
       </div>
     </footer>
