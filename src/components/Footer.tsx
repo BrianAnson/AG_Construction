@@ -7,11 +7,8 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
-              <img 
-                src="/lovable-uploads/2453ce3d-0d35-4d9b-a826-a679d973b259.png" 
-                alt="AG Construction Logo" 
-                className="h-10 w-auto"
-              />
+              <Building2 className="h-8 w-8 mr-3" />
+              <h3 className="text-2xl font-bold">AG Construction</h3>
             </div>
             <p className="text-white/80 mb-4 max-w-md">
               Professional construction services across Commercial Building, Residential Design Build, 

@@ -17,11 +17,7 @@ const Navigation = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <img 
-              src="/lovable-uploads/2453ce3d-0d35-4d9b-a826-a679d973b259.png" 
-              alt="AG Construction Logo" 
-              className="h-8 w-auto"
-            />
+            <h1 className="text-2xl font-bold text-white">AG Construction</h1>
           </div>
           
           {/* Desktop Menu */}
